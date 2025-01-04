@@ -22,7 +22,7 @@ Welcome to the **Customized Login Form** project! This is a sleek, modern, and r
 ## 🚀 Live Preview
 
 Check out the live version of this project:  
-👉 [Live Demo]([https://your-live-demo-link.com](https://loginorm.netlify.app/))  
+👉 [Live Demo](https://loginorm.netlify.app/)  
 
 ---
 
