@@ -9,7 +9,6 @@ Welcome to the **Customized Login Form** project! This is a sleek, modern, and r
 - **Responsive Design:** Adapts seamlessly to all screen sizes. 📱💻
 - **Modern UI/UX:** Eye-catching and user-friendly interface. 🎨
 - **Customizable:** Easily tweak colors, fonts, and layout to match your style. 🖌️
-- **Validation Ready:** Built with placeholders and structure for future JavaScript validations. ✅
 
 ---
 
